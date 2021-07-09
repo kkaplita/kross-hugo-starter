@@ -4,21 +4,21 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Kross | Hugo Portfolio Template"
 [[menu.main]]
-URL = "contact"
-name = "Portfolio"
-weight = 4
+URL = "about"
+name = "About"
+weight = 2
 [[menu.main]]
 URL = "portfolio"
 name = "Portfolio"
-weight = 3
+weight = 4
 [[menu.main]]
 URL = "blog"
 name = "Blog"
-weight = 2
+weight = 3
 [[menu.main]]
-URL = "about"
-name = "O nas"
-weight = 1
+URL = "contact"
+name = "Contact"
+weight = 5
 [params]
 address = "125/A, CA Commercial Area, California, USA"
 author = "Krzysztof Kaplita"
@@ -26,7 +26,7 @@ copyright = "Copyrighht &copy; 2021 by KK"
 description = "This is meta description"
 email = "steve.fruits@email.com"
 google_analitycs_id = "Your ID"
-home = "Home"
+home = "Strona główna"
 logo = "images/logo.png"
 phone = "+880 2544 658 256"
 theme_color = "#41228e"
